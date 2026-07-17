@@ -34,7 +34,7 @@ Framework-agnostic TypeScript, zero runtime dependencies.
 
 ## Built by LangOptima
 
-LangOptima builds AI-ready data and knowledge-graph systems for enterprises. This is one of our open-source [free tools](https://tools.langoptima.com) — [langoptima.com](https://www.langoptima.com).
+LangOptima builds [Knowledge Graph Mediated Translation (KGMT)](https://www.langoptima.com/features/knowledge-graph-mediated-translation-kgmt) — compliance checking at source, before a violation propagates through your language pipeline, so regulated translation stays auditable. This is one of our open-source [free tools](https://tools.langoptima.com) — [langoptima.com](https://www.langoptima.com).
 
 ## License
 
