@@ -1,10 +1,26 @@
 {
   "name": "@langoptima/translation-compliance-calculator",
   "version": "1.0.0",
+  "description": "Open-source model for what regulated-content compliance violations cost as they propagate through translation to every market — and what catching them at source saves.",
   "private": false,
   "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etrebels/translation-compliance-calculator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/etrebels/translation-compliance-calculator/issues"
+  },
+  "homepage": "https://github.com/etrebels/translation-compliance-calculator#readme",
   "main": "./src/index.ts",
   "types": "./src/index.ts",
+  "files": [
+    "src",
+    "NOTICE"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
   "scripts": {
     "typecheck": "tsc --noEmit",
     "test": "vitest run"
